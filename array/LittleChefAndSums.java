@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 /*
- * 
+
 Result: Accepted
 
 https://www.codechef.com/SEPT17/problems/CHEFSUM
